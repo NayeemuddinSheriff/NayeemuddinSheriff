@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayeemuddinSheriff
 - 👀 I’m interested in Front End | React Js
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently working on React Js
 - 💞️ I’m looking to collaborate on Repos
 - 📫 How to reach me ...
 
